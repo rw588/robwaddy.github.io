@@ -8,7 +8,7 @@ PhD Student. Mountaineer. Runner
 Links to Physics Problems and Cheat Sheets
 
 
-### [Mountaineering](https://github.com/rw588/robwaddy.github.io/mountaineering.md)
+### [Mountaineering](https://rw588.github.io/robwaddy.github.io/mountaineering.md)
 
 Pictures, Routes
 
