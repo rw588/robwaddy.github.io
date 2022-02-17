@@ -4,10 +4,11 @@ PhD Student. Mountaineer. Runner
 
 ### Physics
 
+#### Teaching
 Links to Physics Problems and Cheat Sheets
 
 
-### [Mountaineering](https://github.com/rw588/robwaddy.github.io/blob/main/mountaineering.md)
+### [Mountaineering](https://github.com/rw588/robwaddy.github.io/mountaineering.md)
 
 Pictures, Routes
 
